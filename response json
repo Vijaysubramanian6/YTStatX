@@ -1,0 +1,1477 @@
+response = {
+
+# "kind": "youtube#playlistListResponse",
+
+# "etag": "v98WTddKYnG7oOTfrU-arlHKfKE",
+
+# "pageInfo": {
+
+# "totalResults": 18,
+
+# "resultsPerPage": 25
+
+# },
+
+# "items": [
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "0AdldgNN3Kaucmv9f6saVWSAjx4",
+
+# "id": "PL1K8nuzEDP6f671U8S2Sq8R7egJiboxYB",
+
+# "snippet": {
+
+# "publishedAt": "2023-10-19T17:22:02Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Late Night Talks with Aman Dhattarwal",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/6fE0iQS3A1k/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/6fE0iQS3A1k/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/6fE0iQS3A1k/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/6fE0iQS3A1k/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# },
+
+# "maxres": {
+
+# "url": "https://i.ytimg.com/vi/6fE0iQS3A1k/maxresdefault.jpg",
+
+# "width": 1280,
+
+# "height": 720
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Late Night Talks with Aman Dhattarwal",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "nlAnkjzUwz_2HS3efxmZw1JErbw",
+
+# "id": "PL1K8nuzEDP6eTudXPTrIIuNgThNRysuIi",
+
+# "snippet": {
+
+# "publishedAt": "2020-05-15T04:42:06Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Seminars of Aman Dhattarwal",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/WpsBuXX3qF8/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/WpsBuXX3qF8/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/WpsBuXX3qF8/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/WpsBuXX3qF8/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Seminars of Aman Dhattarwal",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "qxu3UxArv8S6jwU9T6yGBp_D4v4",
+
+# "id": "PL1K8nuzEDP6cYfMhuveN_wEbl_q2p3FU1",
+
+# "snippet": {
+
+# "publishedAt": "2020-02-11T16:09:48Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Financial Investment",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/VUyc1LXSk54/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/VUyc1LXSk54/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/VUyc1LXSk54/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/VUyc1LXSk54/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# },
+
+# "maxres": {
+
+# "url": "https://i.ytimg.com/vi/VUyc1LXSk54/maxresdefault.jpg",
+
+# "width": 1280,
+
+# "height": 720
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Financial Investment",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "UIiumqHtmI_scC39dqzqacjiDfg",
+
+# "id": "PL1K8nuzEDP6dUEWohxI_pD5m67nREKknj",
+
+# "snippet": {
+
+# "publishedAt": "2019-09-25T17:14:24Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Honest Talk - by Aman Dhattarwal",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/oTewktsaFWc/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/oTewktsaFWc/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/oTewktsaFWc/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/oTewktsaFWc/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Honest Talk - by Aman Dhattarwal",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "BQd3up-q4MypQuW0uI6tD24VhNY",
+
+# "id": "PL1K8nuzEDP6e81SmH78GQfuF7UKoKTBQy",
+
+# "snippet": {
+
+# "publishedAt": "2019-08-22T13:00:33Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "ProInsights with Aman",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/YAkQHgqcshk/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/YAkQHgqcshk/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/YAkQHgqcshk/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/YAkQHgqcshk/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# },
+
+# "maxres": {
+
+# "url": "https://i.ytimg.com/vi/YAkQHgqcshk/maxresdefault.jpg",
+
+# "width": 1280,
+
+# "height": 720
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "ProInsights with Aman",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "wFrnm_C75YvcZg-QqIxAdB2t1BA",
+
+# "id": "PL1K8nuzEDP6dym5MtXlH3bCjRdMGJYV3U",
+
+# "snippet": {
+
+# "publishedAt": "2019-03-26T13:29:21Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Freelancing Skills",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/ln72ybfsiFA/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/ln72ybfsiFA/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/ln72ybfsiFA/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/ln72ybfsiFA/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# },
+
+# "maxres": {
+
+# "url": "https://i.ytimg.com/vi/ln72ybfsiFA/maxresdefault.jpg",
+
+# "width": 1280,
+
+# "height": 720
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Freelancing Skills",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "8XfFTQz_G4c1z1fMxWNL19OcIq0",
+
+# "id": "PL1K8nuzEDP6f5FV8oi6CF6NNPR93C5Bou",
+
+# "snippet": {
+
+# "publishedAt": "2019-03-26T07:04:42Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Class 12 C++ Crash Course",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Class 12 C++ Crash Course",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "mbrlbk86W5Dl1SqwGwU7yIhkW8w",
+
+# "id": "PL1K8nuzEDP6dyC0bWzwMUN4XB7xxMOjTW",
+
+# "snippet": {
+
+# "publishedAt": "2019-01-04T23:19:04Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Class 12 Chemistry",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Class 12 Chemistry",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "9fmfc_N04NEBG1YefbE8b6GAR6I",
+
+# "id": "PL1K8nuzEDP6fktxo-mYedEXxFXE3qXBkq",
+
+# "snippet": {
+
+# "publishedAt": "2019-01-04T23:18:29Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Class 12 Chemistry",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/GJVAZW9MjvE/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/GJVAZW9MjvE/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/GJVAZW9MjvE/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/GJVAZW9MjvE/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# },
+
+# "maxres": {
+
+# "url": "https://i.ytimg.com/vi/GJVAZW9MjvE/maxresdefault.jpg",
+
+# "width": 1280,
+
+# "height": 720
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Class 12 Chemistry",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "aHbzKjfyFyrqmOBWTuzrf_MgB3A",
+
+# "id": "PL1K8nuzEDP6cPT_2hpCHXv5qshF349rk4",
+
+# "snippet": {
+
+# "publishedAt": "2018-12-24T13:45:02Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "How to Study Abroad?",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/wFq0NhUcQvA/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/wFq0NhUcQvA/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/wFq0NhUcQvA/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/wFq0NhUcQvA/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "How to Study Abroad?",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "\_AXLoq-fcuKAlZFkqYJW7d0YFjU",
+
+# "id": "PL1K8nuzEDP6fPRBsxKWg7LnO1alU56Hpp",
+
+# "snippet": {
+
+# "publishedAt": "2018-07-26T16:00:11Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Vedic Maths | Fast Maths Tricks",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/Je5AM5eGUUY/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/Je5AM5eGUUY/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/Je5AM5eGUUY/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/Je5AM5eGUUY/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# },
+
+# "maxres": {
+
+# "url": "https://i.ytimg.com/vi/Je5AM5eGUUY/maxresdefault.jpg",
+
+# "width": 1280,
+
+# "height": 720
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Vedic Maths | Fast Maths Tricks",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "lLmm-4VmyE3dLyHsBO5i2slkfIo",
+
+# "id": "PL1K8nuzEDP6e68LJkV-ZPOkaVsAiMPq5Q",
+
+# "snippet": {
+
+# "publishedAt": "2018-07-17T12:05:14Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Web Development and Web Design",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/O1mDHQVIbLY/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/O1mDHQVIbLY/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/O1mDHQVIbLY/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/O1mDHQVIbLY/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# },
+
+# "maxres": {
+
+# "url": "https://i.ytimg.com/vi/O1mDHQVIbLY/maxresdefault.jpg",
+
+# "width": 1280,
+
+# "height": 720
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Web Development and Web Design",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "q_XjZYhkTM1-ju2fhfkhILsX7vY",
+
+# "id": "PL1K8nuzEDP6cam2-GTTlDd_clVErBKd2W",
+
+# "snippet": {
+
+# "publishedAt": "2018-07-13T13:07:39Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "MBA",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/hSHQKnwpotw/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/hSHQKnwpotw/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/hSHQKnwpotw/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/hSHQKnwpotw/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "MBA",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "cDMLA-fAApEjBs9ZZ_13UQKmDkI",
+
+# "id": "PL1K8nuzEDP6c-Sqjf9prBjXYsSc-S4PnY",
+
+# "snippet": {
+
+# "publishedAt": "2018-07-08T14:47:13Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "After Btech CAREER OPTIONS",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/9f-NCow7Ek4/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/9f-NCow7Ek4/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/9f-NCow7Ek4/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/9f-NCow7Ek4/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# },
+
+# "maxres": {
+
+# "url": "https://i.ytimg.com/vi/9f-NCow7Ek4/maxresdefault.jpg",
+
+# "width": 1280,
+
+# "height": 720
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "After Btech CAREER OPTIONS",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "HM8raCgl1MpwUOCG59CBHCcJbUU",
+
+# "id": "PL1K8nuzEDP6d-QO6tmEM4yn8af7LODgbH",
+
+# "snippet": {
+
+# "publishedAt": "2018-03-30T14:38:56Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Engineering College Admission",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/qS275M7o03k/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/qS275M7o03k/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/qS275M7o03k/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/qS275M7o03k/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# },
+
+# "maxres": {
+
+# "url": "https://i.ytimg.com/vi/qS275M7o03k/maxresdefault.jpg",
+
+# "width": 1280,
+
+# "height": 720
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Engineering College Admission",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "5B8ubaufr5K-zwDmMYaqwb9nCjc",
+
+# "id": "PL1K8nuzEDP6cQp7HoRXTrW6FEuQfWDbWs",
+
+# "snippet": {
+
+# "publishedAt": "2017-12-22T17:10:16Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Computer Science for Class 12 board",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/A5_XdiK4J8A/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/A5_XdiK4J8A/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/A5_XdiK4J8A/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/A5_XdiK4J8A/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# },
+
+# "maxres": {
+
+# "url": "https://i.ytimg.com/vi/A5_XdiK4J8A/maxresdefault.jpg",
+
+# "width": 1280,
+
+# "height": 720
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Computer Science for Class 12 board",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "0nvrbpev7AKNMAu0ig2YoFBJ7ec",
+
+# "id": "PL1K8nuzEDP6fJfUACnhkiMLK0FsYCD-XQ",
+
+# "snippet": {
+
+# "publishedAt": "2017-10-29T02:21:59Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Class 12 NCERT |CONTEMPORARY WORLD POLITICS",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/Xo0Bbll8GBI/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/Xo0Bbll8GBI/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/Xo0Bbll8GBI/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/Xo0Bbll8GBI/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# },
+
+# "maxres": {
+
+# "url": "https://i.ytimg.com/vi/Xo0Bbll8GBI/maxresdefault.jpg",
+
+# "width": 1280,
+
+# "height": 720
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Class 12 NCERT |CONTEMPORARY WORLD POLITICS",
+
+# "description": ""
+
+# }
+
+# }
+
+# },
+
+# {
+
+# "kind": "youtube#playlist",
+
+# "etag": "eZODWseGvXhlPFktyip1j8MDzYU",
+
+# "id": "PL1K8nuzEDP6cHtVkuLW30vKpm2N1kCro5",
+
+# "snippet": {
+
+# "publishedAt": "2016-12-26T16:07:01Z",
+
+# "channelId": "UCmXZxX_qexEZxhb5_vQKPCw",
+
+# "title": "Class 12th Boards- Major Doubts",
+
+# "description": "",
+
+# "thumbnails": {
+
+# "default": {
+
+# "url": "https://i.ytimg.com/vi/RwBccX1lXOI/default.jpg",
+
+# "width": 120,
+
+# "height": 90
+
+# },
+
+# "medium": {
+
+# "url": "https://i.ytimg.com/vi/RwBccX1lXOI/mqdefault.jpg",
+
+# "width": 320,
+
+# "height": 180
+
+# },
+
+# "high": {
+
+# "url": "https://i.ytimg.com/vi/RwBccX1lXOI/hqdefault.jpg",
+
+# "width": 480,
+
+# "height": 360
+
+# },
+
+# "standard": {
+
+# "url": "https://i.ytimg.com/vi/RwBccX1lXOI/sddefault.jpg",
+
+# "width": 640,
+
+# "height": 480
+
+# }
+
+# },
+
+# "channelTitle": "Aman Dhattarwal",
+
+# "localized": {
+
+# "title": "Class 12th Boards- Major Doubts",
+
+# "description": ""
+
+# }
+
+# }
+
+# }
+
+# ]
+
+# }
